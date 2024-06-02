@@ -1,5 +1,9 @@
 # vocabulary_spring
 
+
+https://gitpod.io/#/dhttps://github.com/dsslleagion/vocabulary_spring_prova_treino
+
+
 ITE002 – 2024
 Utilize os projetos contidos nos repositórios https://github.com/mineda/springboot3app e
 https://github.com/mineda/vue3app e crie uma nova página para gerenciar Vocábulos, consumindo
